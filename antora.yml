@@ -1,6 +1,8 @@
 name: ROOT
 title: Redpanda
-version: 23.2
+version: ~
+prerelease: true
+display_version: 'Technical Preview' 
 start_page: get-started:intro-to-events.adoc
 nav:
 - modules/ROOT/nav.adoc
