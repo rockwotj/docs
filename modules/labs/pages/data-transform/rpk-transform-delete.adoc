@@ -1,7 +1,6 @@
 = rpk transform delete
 :description: Delete a data transform.
 
-{badge-tech-preview}
 
 Delete a data transform.
 

@@ -1,7 +1,6 @@
 = rpk transform init
 :description: Create a new transform using a template in the current directory.
 
-{badge-tech-preview}
 
 Create a new transform using a template in the current directory.
 

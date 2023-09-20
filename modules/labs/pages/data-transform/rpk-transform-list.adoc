@@ -1,7 +1,6 @@
 = rpk transform list
 :description: List data transforms.
 
-{badge-tech-preview}
 
 List data transforms.
 

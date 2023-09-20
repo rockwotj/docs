@@ -1,7 +1,6 @@
 = rpk transform deploy
 :description: Deploy a data transform.
 
-{badge-tech-preview}
 
 Deploy a data transform.
 

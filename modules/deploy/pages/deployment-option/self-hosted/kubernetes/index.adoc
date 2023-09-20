@@ -1,5 +1,0 @@
-= Deploy on Kubernetes
-:description: Learn about deployment options on Kubernetes.
-:page-layout: index
-
-Kubernetes provides a standardized way of achieving high availability, disaster recovery, and scalability.

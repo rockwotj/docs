@@ -1,7 +1,6 @@
 = rpk transform build
 :description: Build a data transform.
 
-{badge-tech-preview}
 
 Build a data transform.
 

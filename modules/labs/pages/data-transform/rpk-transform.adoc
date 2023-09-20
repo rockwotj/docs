@@ -1,7 +1,6 @@
 = rpk transform
 :description: Develop, deploy and manage Redpanda data transforms.
 
-{badge-tech-preview}
 
 Develop, deploy and manage Redpanda data transforms.
 
