@@ -1264,7 +1264,7 @@ Use this recovery method to restore your application to the latest functional st
 
 === Start a recovery target cluster
 
-Follow the steps to start a new cloud cluster. Cloud account credentials (such as secrets or access keys) are not included in backed up metadata, and so these must be manually configured for the new cluster.
+Follow the steps to xref:deploy:deployment-option/cloud/index.adoc[provision a new cloud cluster]. Cloud account credentials (such as secrets or access keys) are not included in backed up metadata, and so you must manually configure these credentials for the new cluster.
 
 === Cluster metadata recovery
 
@@ -1276,6 +1276,7 @@ rpk
 ----
 
 The following metadata is included in the restore:
+
 - Topic definitions. If you have enabled tiered storage only for specific topics, non-tiered storage will not be recovered 
 - Users and access control lists (ACLs)
 - Schemas
